@@ -1,0 +1,24 @@
+Create a simple API using Swagger/OpenAPI and test it with Swagger UI.
+Tasks:
+1. Create an OpenAPI Specification:
+ • Use Swagger Editor to define a simple API.
+ • Create an API with the following two endpoints:
+ o GET /greeting – Returns a simple greeting message (e.g., "Hello, World!").
+ o POST /greeting – Accepts a name (e.g., "John") and returns a personalized greeting (e.g., "Hello, 
+John!").
+ Specification Details:
+ • For GET /greeting:
+ o Response: A JSON object with a message (e.g., { "message": "Hello, World!" }).
+ • For POST /greeting:
+ o Request: A JSON object with a name field (e.g., { "name": "John" }).
+ o Response: A personalized greeting in JSON format (e.g., { "message": "Hello, John!" }).
+2. Render and Test the API in Swagger UI:
+ • Use Swagger UI to visualize and interact with the API.
+ • Import the OpenAPI specification you just created into Swagger UI.
+ • Test the GET /greeting endpoint to make sure it returns the correct greeting.
+ • Test the POST /greeting endpoint by sending a name (e.g., "John") in the request body and check if the API 
+responds with a personalized greeting.
+3. Submit Deliverables:
+ • Provide a screenshot of the Swagger UI showing both the GET and POST endpoints, including the test 
+results.
+ • Submit the OpenAPI specification (as .yaml or .json format).
