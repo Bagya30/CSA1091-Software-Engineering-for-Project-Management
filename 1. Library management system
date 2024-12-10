@@ -1,0 +1,16 @@
+Use the following requirements for a Library Management System:
+ • Add a feature to search books by title and author.
+ • Implement an online book reservation system.
+ • Generate monthly reports on borrowed books for administrators.
+ • Enable email notifications for overdue books.
+ • Add support for QR code scanning for borrowing and returning books.
+ • Create a user-friendly dashboard for librarians.
+ • Allow users to review and rate books.
+ • Integrate a chatbot for user assistance.
+ • Develop a mobile app version of the system.
+ • Provide multi-language support.
+Categorize each requirement using MOSCOW Method (Must-Have, Should-Have, Could-Have, or Won’t-Have) 
+based on the following criteria:
+ • Impact on the users and stakeholders.
+ • Feasibility considering time, budget, and resource constraints.
+Finally Submit the completed Google Sheet or Excel file with all requirements categorized and justified
