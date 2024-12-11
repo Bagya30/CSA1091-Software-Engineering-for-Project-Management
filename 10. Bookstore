@@ -1,0 +1,6 @@
+Define, document, create and test a simple Book Store API using Swagger/OpenAPI.
+Tasks:
+1. Create an OpenAPI Specification for the Book Store API:
+ o Use Swagger Editor to define an OpenAPI specification for a basic Book Store API.
+ 
+ 
