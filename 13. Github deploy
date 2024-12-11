@@ -1,0 +1,8 @@
+Implement Continuous Deployment using GitHub Actions to deploy a Dockerized application.
+Tasks:
+1.Set up a GitHub repository and push a simple Dockerized application.
+2.Create a GitHub Actions workflow to automatically build and push the Docker image to Docker Hub or GitHub 
+Container Registry.
+3.Automate deployment to a cloud platform (e.g., AWS ECS, Azure Kubernetes Service, or Google Kubernetes 
+Engine).
+4.Test the CI/CD pipeline by pushing new code changes and verifying that the deployment occurs automatically
