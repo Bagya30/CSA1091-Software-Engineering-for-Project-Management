@@ -1,0 +1,15 @@
+Demonstrate how to work with Git branches and resolve merge conflicts when collaborating with others.
+Tasks:
+1. Clone a shared repository to your local machine.
+2. Create a new branch and switch to it.
+3. Make changes to a file (e.g., update a README or modify code in a specific function).
+4. Commit your changes.
+5. Push the changes to the remote repository.
+6. Before merging, pull the latest changes from the main branch.
+7. Switch back to your feature branch.
+8. Merge the main branch into your feature branch.
+9. If there are conflicts, resolve them manually by editing the conflicting files. After resolving conflicts, mark 
+the conflicts as resolved.
+10. Commit the resolved merge.
+11. Push your feature branch with the merged changes to GitHub and create a pull request.
+12. Submit a summary of the steps you performed, the conflicts you encountered, and how you resolved them.
